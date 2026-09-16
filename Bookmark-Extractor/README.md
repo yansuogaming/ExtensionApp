@@ -19,7 +19,7 @@
 - 🎯 **Phát hiện link trùng lặp**: Tự động nhận diện và gom nhóm các URL bị lưu trùng nhiều lần.
 - 📊 **Thống kê chuyên sâu**: Tổng số link, số tên miền duy nhất, số thư mục, tỷ lệ link sống/chết.
 - 💾 **Xuất dữ liệu đa định dạng**: Hỗ trợ xuất sang **Excel (.xlsx)**, **CSV (UTF-8 BOM)**, **HTML Bookmark chuẩn**, **Markdown**, **JSON**, **TXT**.
-- 🌓 **Giao diện hiện đại**: Dark Mode / Light Mode mượt mà, hỗ trợ song ngữ **Tiếng Việt & English**.
+- 🌓 **Giao diện hiện đại**: Dark Mode mượt mà, hỗ trợ song ngữ **Tiếng Việt & English**.
 
 ---
 
