@@ -8,7 +8,7 @@ Tổng hợp các tiện ích mở rộng (Chrome Extensions) hữu ích, tối 
 
 | STT | Tên Extension | Mô Tả & Tính Năng | Phiên Bản | Tải Về (.zip) | Hướng Dẫn Chi Tiết | Trạng Thái |
 | :---: | :--- | :--- | :---: | :---: | :---: | :---: |
-| 1 | **Bookmark Extractor** | Trích xuất toàn bộ bookmark, lọc trùng lặp, kiểm tra link Sống/Chết (Live/Die) siêu tốc và tự động đo RAM tối ưu | `v1.1.0` | [📥 **Tải về (.zip)**](Bookmark-Extractor/Bookmark-Extractor-Extension-v1.0.0.zip) | [📖 Xem hướng dẫn](Bookmark-Extractor/README.md) | 🟢 Sẵn sàng |
+| 1 | **Bookmark Extractor** | Trích xuất toàn bộ bookmark, lọc trùng lặp, kiểm tra link Sống/Chết (Live/Die) siêu tốc và tự động đo RAM tối ưu | `v1.1.0` | [📥 **Tải về (.zip)**](Bookmark-Extractor/Bookmark-Extractor-Extension-v1.1.0.zip) | [📖 Xem hướng dẫn](Bookmark-Extractor/README.md) | 🟢 Sẵn sàng |
 
 ---
 
